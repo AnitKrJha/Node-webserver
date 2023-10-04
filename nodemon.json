@@ -1,0 +1,9 @@
+{
+	"watch": [
+		"./index.ts",
+		"./utils.ts"
+	],
+	"execMap": {
+		"ts": "npx ts-node-esm"
+	}
+}

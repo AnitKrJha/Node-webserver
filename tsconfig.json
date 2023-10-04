@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "noEmit": true,
+        "allowImportingTsExtensions": true
+    }   
+}
